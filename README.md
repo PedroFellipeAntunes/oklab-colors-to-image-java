@@ -1,4 +1,4 @@
-# Color Changer OkLab
+# Color Changer OkLab/OkLch
 
 This project is a **Java application** that provides an interactive GUI for generating and editing color palettes in the **OKLAB color space**, and applying them to images. Users can adjust each color channel (Lightness, Chroma, Hue), generate random or interpolated palettes, invert or reset colors, and preview the changes in real time.
 
