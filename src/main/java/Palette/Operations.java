@@ -52,6 +52,6 @@ public class Operations {
     public static void saveImage(BufferedImage image, String filePath) {
         PngSaver listToImage = new PngSaver();
         
-        listToImage.saveToFile("Palette[" + colorLevels + "color]", filePath, image);
+        listToImage.saveToFile("Recolored[" + colorLevels + "color]", filePath, image);
     }
 }
