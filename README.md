@@ -10,13 +10,13 @@ This project is a **Java application** that provides an interactive GUI for gene
   <table align="center">
     <tr>
       <td>
-        <img src="images/examples/pexels-dsd-143941-1822605.jpg" width="400" alt="Original Image">
+        <img src="images/examples/pexels-dsd-143941-1822605.jpg" alt="Original Image">
       </td>
       <td>
-        <img src="images/examples/pexels-dsd-143941-1822605_Recolored%5B16color%5D.png" width="400" alt="Recolored 16 Example 1">
+        <img src="images/examples/pexels-dsd-143941-1822605_Recolored%5B16color%5D.png" alt="Recolored 16 Example 1">
       </td>
       <td>
-        <img src="images/examples/pexels-dsd-143941-1822605_Recolored%5B16color%5D_1.png" width="400" alt="Recolored 16 Example 2">
+        <img src="images/examples/pexels-dsd-143941-1822605_Recolored%5B16color%5D_1.png" alt="Recolored 16 Example 2">
       </td>
     </tr>
   </table>
@@ -210,16 +210,16 @@ Recolored[N_COLORS].png
       <td><b>8 Colors</b></td>
     </tr>
     <tr>
-      <td><img src="images/examples/pexels-evgeny-tchebotarev-1058775-2187605.jpg" width="300" alt="Original"></td>
-      <td><img src="images/examples/pexels-evgeny-tchebotarev-1058775-2187605_Recolored%5B8color%5D.png" width="300" alt="Example 8 colors"></td>
+      <td><img src="images/examples/pexels-evgeny-tchebotarev-1058775-2187605.jpg" alt="Original"></td>
+      <td><img src="images/examples/pexels-evgeny-tchebotarev-1058775-2187605_Recolored%5B8color%5D.png" alt="Example 8 colors"></td>
     </tr>
     <tr>
       <td><b>Original</b></td>
       <td><b>64 Colors</b></td>
     </tr>
     <tr>
-      <td><img src="images/examples/pexels-vincent-ma-janssen-1310788.jpg" width="300" alt="Original"></td>
-      <td><img src="images/examples/pexels-vincent-ma-janssen-1310788_Recolored%5B64color%5D.png" width="300" alt="Example 64 colors"></td>
+      <td><img src="images/examples/pexels-vincent-ma-janssen-1310788.jpg" alt="Original"></td>
+      <td><img src="images/examples/pexels-vincent-ma-janssen-1310788_Recolored%5B64color%5D.png" alt="Example 64 colors"></td>
     </tr>
   </table>
 </p>
