@@ -81,12 +81,25 @@ This project is a **Java application** that provides an interactive GUI for gene
 ## Usage
 
 <ol>
-  <li><b>Run the Application</b>
+  <li><b>Load an Image</b>
+    <ul>
+      <li>Open the application:</li>
+    </ul>
 
 ```bash
 java -jar ColorChangerOkLab.jar
 ```
 
+  <li><b>Select the image file you want to recolor.</b></li>
+
+  </li>
+
+  <li><b>Set Palette Options</b>
+    <ul>
+      <li>Choose the number of colors for the palette.</li>
+      <li>Select whether the color space should be dynamic or fixed.</li>
+      <li>The application will create a palette based on these settings.</li>
+    </ul>
   </li>
 
   <li><b>Edit the Palette</b>
@@ -99,9 +112,15 @@ java -jar ColorChangerOkLab.jar
 
   <li><b>Apply to Image</b>
     <ul>
-      <li>Load an image, then click <b>Next</b> to apply the palette.</li>
+      <li>Click <b>Next</b> to apply the palette to the loaded image.</li>
       <li>A new window will open with the processed image.</li>
+      <li>The output will be automatically saved with a descriptive filename such as:</li>
     </ul>
+
+```text
+Recolored[N_COLORS].png
+```
+
   </li>
 </ol>
 
