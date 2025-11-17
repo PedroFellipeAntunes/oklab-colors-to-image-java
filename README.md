@@ -207,7 +207,7 @@ Recolored[N_COLORS].png
   <table align="center">
     <tr>
       <td><b>Original</b></td>
-      <td><b>8 Colors</b></td>
+      <td><b>8 Colors No Interpolation</b></td>
     </tr>
     <tr>
       <td><img src="images/examples/pexels-evgeny-tchebotarev-1058775-2187605.jpg" alt="Original"></td>
@@ -215,7 +215,7 @@ Recolored[N_COLORS].png
     </tr>
     <tr>
       <td><b>Original</b></td>
-      <td><b>64 Colors</b></td>
+      <td><b>64 Colors Interpolated</b></td>
     </tr>
     <tr>
       <td><img src="images/examples/pexels-vincent-ma-janssen-1310788.jpg" alt="Original"></td>
